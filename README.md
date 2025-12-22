@@ -82,6 +82,6 @@ To make this chatbot useful:
 
 - Sohaib Ahmed Bazaz
 - Muhammad Umar 
-- Maaz Akram 
+
 
 
